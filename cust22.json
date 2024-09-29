@@ -1,0 +1,39 @@
+{
+  "transactions": [
+    {
+      "id": "1",
+      "txdate": "08/24/2024",
+      "amount": 500,
+      "description": "direct deposit",
+      "type": "credit"
+    },
+    {
+      "id": "2",
+      "txdate": "08/27/2024",
+      "amount": 160,
+      "description": "cash deposit",
+      "type": "credit"
+    },
+    {
+      "id": "3",
+      "txdate": "09/12/2024",
+      "amount": 600,
+      "description": "withdrawal",
+      "type": "debit"
+    },
+    {
+      "id": "4",
+      "txdate": "09/23/2024",
+      "amount": 120,
+      "description": "deposit",
+      "type": "credit"
+    },
+    {
+      "id": "5",
+      "txdate": "09/26/2024",
+      "amount": 140,
+      "description": "atm withdrawal",
+      "type": "debit"
+    }
+  ]
+}
